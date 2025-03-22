@@ -16,7 +16,7 @@ Cette application permet la gestion des recrutements en mettant en relation des 
 1. Cloner le projet :
 
    ```sh
-   git clone https://github.com/utilisateur/repository.git
+   git clone https://github.com/ilias19sh/testtechnique_AriMayi.git
    cd repository
    ```
 
